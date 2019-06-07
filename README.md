@@ -5,6 +5,7 @@ Como eu disse, o projeto é simples (Sem interfaces gráficas, todo feito pelo t
 
 
 ***Formas de Contato***
+
 Telegram - [@LinMaciel](https://t.me/LinMaciel)
 
 Twitter - [@**lin_winchester**](https://twitter.com/lin_winchester)
