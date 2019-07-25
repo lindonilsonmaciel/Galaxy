@@ -36,6 +36,7 @@ void calcularTempoPrisaoMinutos(int minutos){
 }
 
 void calcularTempoPrisaoPontos(int pontos){
+  pontos -= 90;
   int segundos = pontos * 30;
   int minutos = segundos/60;
   calcularTempoPrisaoMinutos(minutos);
